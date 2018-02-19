@@ -6,3 +6,5 @@ Ovo su svi materijali i zadaci iz predmeta KI203: Visenitnoost i paralelno progr
 Linkovi iz Lekcije 01:
 
 https://youtu.be/YdlnEWC-7Wo
+
+https://youtu.be/_aNO6x8HXZ0
