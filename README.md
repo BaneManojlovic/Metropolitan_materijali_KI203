@@ -8,3 +8,10 @@ Linkovi iz Lekcije 01:
 https://youtu.be/YdlnEWC-7Wo
 
 https://youtu.be/_aNO6x8HXZ0
+
+****************************************************************************************
+Radionica 1:
+
+https://www.youtube.com/watch?v=1i85F6hKa-U&feature=youtu.be
+
+****************************************************************************************
