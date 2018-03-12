@@ -1,0 +1,79 @@
+Cene:
+Rb. 1) 4.990 € Audi A3 2005 god.
+Rb. 2) 8.490 € Hyundai i30 2013 god.
+Rb. 3) 5.700 € Renault Grand Modus 2011 god.
+Rb. 4) 13.730 € Hyundai i30 2017 god.
+Rb. 5) 15.650 € BMW X5 2008 god.
+Rb. 6) 18.500 € Audi A6 2013 god.
+Rb. 7) 6.990 € Citroen C3 2011 god.
+Rb. 8) 24.490 € Peugeot 3008 2017 god.
+Rb. 9) 7.900 € Ford Focus 2013 god.
+Rb. 10) 5.999 € Citroen C3 2013 god.
+Rb. 11) 24.000 € Mercedes Benz G 320 1995 god.
+Rb. 12) 8.490 € Opel Antara 2011 god.
+Rb. 13) 5.100 € Citroen C3 2013 god.
+Rb. 14) 17.990 € Audi A4 2015 god.
+Rb. 15) 10.490 € Škoda Octavia 2013 god.
+Rb. 16) 13.999 € BMW X1 2014 god.
+Rb. 17) 2.950 € Renault Megane 2006 god.
+Rb. 18) 19.999 € BMW X3 2012 god.
+Rb. 19) 3.750 € Mini Cooper 2002 god.
+Rb. 20) 24.000 € Audi A6 Allroad 2013 god.
+Rb. 21) 1.750 € Opel Astra G 2002 god.
+Rb. 22) 1.300 € Fiat Seicento 2003 god.
+Rb. 23) 2.345 € Citroen Xsara Picasso 2005 god.
+Rb. 24) 1.845 € Alfa Romeo 147 2002 god.
+Rb. 25) 1.200 € Renault Clio 2001 god.
+Rb. 26) 1.845 € Renault Scenic 2002 god.
+Rb. 27) 2.300 € Volkswagen Golf 4 2002 god.
+Rb. 28) 1.850 € Opel Corsa C 2002 god.
+Rb. 29) 3.150 € Mini Cooper 2003 god.
+Rb. 30) 6.800 € BMW 320 2006 god.
+Rb. 31) 1.600 € Fiat Stilo 2004 god.
+Rb. 32) 2.000 € Fiat Punto 2004 god.
+Rb. 33) 2.350 € MG ZR 2004 god.
+Rb. 34) 750 € Audi 100 1992 god.
+Rb. 35) 2.640 € Honda HR-V 2000 god.
+Rb. 36) 2.800 € Volkswagen Passat B5.5 2001 god.
+Rb. 37) 4.699 € Audi A4 2001 god.
+Rb. 38) 7.500 € Opel Insignia 2009 god.
+Rb. 39) 3.100 € Škoda Octavia 2003 god.
+Rb. 40) 1.550 € Alfa Romeo 147 2001 god.
+Rb. 41) 7.900 € Volkswagen Golf 6 2012 god.
+Rb. 42) 2.900 € Mercedes Benz ML 270 2002 god.
+Rb. 43) 250 € Zastava Yugo Tempo 1999 god.
+Rb. 44) 2.700 € Peugeot 307 2004 god.
+Rb. 45) 2.598 € Škoda Fabia 2006 god.
+Rb. 46) 2.250 € BMW 120 2004 god.
+Rb. 47) 1.499 € Fiat Seicento 2006 god.
+Rb. 48) 950 € Dacia Logan 2007 god.
+Rb. 49) 5.200 € Dodge Caliber 2007 god.
+Rb. 50) 2.100 € Škoda Octavia 1999 god.
+Rb. 51) 7.000 € Audi A4 2007 god.
+Rb. 52) 770 € Audi 80 1992 god.
+Rb. 53) 10.000 € Nissan Juke 2013 god.
+Rb. 54) 3.000 € BMW 318 2001 god.
+Rb. 55) 1.300 € Citroen Saxo 2003 god.
+Rb. 56) 1.300 € Fiat Punto 2002 god.
+Rb. 57) 4.400 € Land Rover Freelander 2005 god.
+Rb. 58) 8.000 € BMW 318 2009 god.
+Rb. 59) 3.450 € Citroen C4 2008 god.
+Rb. 60) 3.100 € Volkswagen Passat B5.5 2002 god.
+Rb. 61) 1.000 € Peugeot 306 1999 god.
+Rb. 62) 4.200 € Nissan Tiida 2007 god.
+Rb. 63) 8.690 € Peugeot 508 2012 god.
+Rb. 64) 5.200 € Kia Sportage 2006 god.
+Rb. 65) 2.400 € Smart ForTwo 2006 god.
+Rb. 66) 150 € Opel Corsa A 1985 god.
+Rb. 67) 3.000 € Renault Espace 2004 god.
+Rb. 68) 2.200 € Mercedes Benz A 170 2002 god.
+Rb. 69) 5.100 € Volkswagen Passat B6 2006 god.
+Rb. 70) 1.600 € Škoda Fabia 2001 god.
+Rb. 71) 1.100 € Opel Astra F 1993 god.
+Rb. 72) 1.899 € Volkswagen Passat B5 1998 god.
+Rb. 73) 4.299 € Mercedes Benz A 170 2006 god.
+Rb. 74) 2.750 € Citroen C3 2007 god.
+Rb. 75) 400 € Citroen AX 1992 god.
+Rb. 76) 270 € Zastava 101 1998 god.
+Rb. 77) 2.990 € Opel Astra G 2004 god.
+Rb. 78) 2.800 € Citroen C5 2007 god.
