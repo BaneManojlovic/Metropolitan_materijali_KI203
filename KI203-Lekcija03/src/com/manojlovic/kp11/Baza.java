@@ -62,11 +62,11 @@ public class Baza {
     }
   
     //metoda za ispis-filtriranje automobila prema zadatom kriterijumu
-    public static List<Automobili> getGodisteIzmedju1990i2010() {
+    public static List<Automobili> getGodisteIzmedju1990i2000() {
         ArrayList<Automobili> listaAutomobila = new ArrayList<Automobili>();
         try {
             con = DriverManager.getConnection(url, username, password);
-            String query = "SELECT * FROM automobili WHERE GODISTE >= 1990 AND GODISTE <= 2000";
+            String query = "SELECT * FROM automobili WHERE GODISTE >= 1990 AND GODISTE <= 1999";
             Statement st = (Statement) con.createStatement();
             ResultSet rs = st.executeQuery(query);
             while (rs.next()) {

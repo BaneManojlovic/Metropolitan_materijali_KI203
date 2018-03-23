@@ -14,8 +14,8 @@ import java.sql.SQLException;
 public class Primer3 {
     
      public Primer3() throws SQLException {
-       // System.out.println(Baza.getGodisteIzmedju1990i2010());
-        Baza.deleteAuto(3);
+        System.out.println(Baza.getGodisteIzmedju1990i2000());
+     //   Baza.deleteAuto(3);
     }
     
     
