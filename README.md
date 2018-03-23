@@ -14,4 +14,9 @@ Radionica 1:
 
 https://www.youtube.com/watch?v=1i85F6hKa-U&feature=youtu.be
 
+
+https://www.youtube.com/watch?time_continue=4&v=1i85F6hKa-U
+
+I ova dva linka su ista  :)
+
 ****************************************************************************************
