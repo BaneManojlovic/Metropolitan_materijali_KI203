@@ -70,6 +70,6 @@ public class Automobili {
     //metoda za ispis
     @Override
     public String toString() {
-        return "Rb: " + id + " " + model + ", godiste: " + godiste + ", cena: " + cena + '.';
+        return "Rb: " + id + " " + model + ", godiste: " + godiste + ", cena: " + cena + ".\n";
     }
 }
